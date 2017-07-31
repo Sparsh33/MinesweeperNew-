@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/0e40ceaf583d2e4296bed9f3203d678158501108/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19cc1fd0679680eda58d831290884b49e0ea66df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/3574486d49ae339f2413eef158744f648f103181/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b447752cac04e7e16bf029bbc9a2748587a43f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/cad185acbfc3f673a3f200569f2b4ff59fc92bda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d672763a93491dbe675046fc8e97bda35436c3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/092a99f17ce455b0afaeb7cb7b06a26aecbf9131/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4e206f43f4d5103351dc32c4605557040d00db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/53a7f2016544321b272099cbbdef64b4406c2548/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9389fe9df6450b8fb0b7664a50740f5ca8b044b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e86b53c4dbb5223b2647d96f4772d6c28ef6b091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/64b2e3f3583c1e7baf6fefe585e7387818d316a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eabe3050189c03e712f2a84e247f2fb23c88c569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/56df02ed061dfa077cb925ee567034ab35e2ef90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6df91f9f33649d32e37824a7a42813f848fabccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_63e32334ddf65f5b80cd1fe236d6c101b183e3b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/26c2ce1d5a8789d238d8f3638ee39e0e93ee5eb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c582b206e0f077323152ac163d13c56995ee65eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/9cdbffbc96ebe2b6dbd328bcba0b16e51c335520/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b702e3dbf79fc0823fd9bd2fc279cee267cdeb91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/70f363ece7d27d6b64950cb5fd9a77df82dfab18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba45b715110b5445a313efe00f8d73f8fbd1914b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d5f9e0733c92f7395e34e1a35bfeafdce6a396e">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da1e1c0a69745c834437b18c5370544091f20c1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/e7984bf724268b499c23ea2be49ca8b4168109cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b315e8b9524220d8ebb9c963a1a20d2b8d44352f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sparshgupta/.android/build-cache/da0689a0dc8263e1a75d7b2ba353702b0c0f25a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sparshgupta/Google Drive/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c08c20ecbc5f26ff6dd8314cc0054365d76e150a/classes.dex" />
+    </item>
+
+</items>

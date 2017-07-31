@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.sparshgupta.minesweeper.MainActivity">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/top_workspace"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Restart"
+            android:id="@+id/b_restart"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textSize="24sp"
+            style="@android:style/Widget.Holo.Button.Small"
+            android:elevation="3dp"
+            android:background="#5D4037" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/dispArea1"
+            android:gravity="right|center_vertical"
+            android:typeface="serif"
+            android:textSize="36sp"
+            android:background="#5D4037"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="false"
+            android:textAlignment="center"
+            android:fontFamily="sans-serif" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/dispArea2"
+            android:gravity="right|center_vertical"
+            android:typeface="serif"
+            android:textSize="24sp"
+            android:background="#5D4037"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="false"
+            android:textAlignment="center"
+            android:text="Easy"
+            android:fontFamily="sans-serif" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="8"
+        android:id="@+id/main_workspace">
+    </LinearLayout>
+
+
+</LinearLayout>
